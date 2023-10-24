@@ -10,14 +10,15 @@ Task 2: <br>
 write a terraform script to create an EC2 instance and a RDS over AWS management console in same region but in different availability zones.
 Additionally I have modified the script to create an S3 bucket as well.
 
-2.1 First we do terrafrom init
+2.1 First we do "terrafrom init"
 
-2.2 Then we do terrrafrom plan
+2.2 Then we do "terrrafrom plan"
 ![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/7af6d537-34d3-489c-af02-83e5378f3275)
 
 <br>
 <br>
 2.3 Then we do "terrrafrom apply"
+
 ![image](https://github.com/MohitBishesh/Mohit-Bishesh-task/assets/74617917/0d08f608-e284-4081-b501-86eada3d4f0e)
 
 we can see in the image above, our script has been successfully executed and the desired resources have been created.
