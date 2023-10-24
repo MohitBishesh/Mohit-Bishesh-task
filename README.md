@@ -2,6 +2,9 @@ This repository contains two task:<br>
 Task 1 <br>
 write a c++ program to find out the angle between minute hand and hour hand of a clock in 12 hour format and 24 hours format.
 Please refer to main.cpp file for respective code.
+1.1 Program execution flow is as below,
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/195ac8af-23d4-4dcd-a1e7-29d374dc84a1)
+
 
 Task 2: <br>
 write a terraform script to create an easy to instance and a r d s over a w s management console in same reason but in different availability zones.
