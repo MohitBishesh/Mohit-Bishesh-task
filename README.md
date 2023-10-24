@@ -7,7 +7,7 @@ Please refer to main.cpp file for respective code.
 
 
 Task 2: <br>
-write a terraform script to create an easy to instance and a r d s over a w s management console in same reason but in different availability zones.
+write a terraform script to create an EC2 instance and a RDS over AWS management console in same region but in different availability zones.
 Additionally I have modified the script to create an S3 bucket as well.
 
 2.1 First we do terrafrom init
