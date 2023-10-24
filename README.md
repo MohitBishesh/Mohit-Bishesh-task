@@ -10,23 +10,28 @@ Additionally I have modified the script to create an S3 bucket as well.
 2.1 First we do terrafrom init
 
 2.2 Then we do terrrafrom plan
-![Alt text](image.png)
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/7af6d537-34d3-489c-af02-83e5378f3275)
+
 <br>
 <br>
 2.3 Then we do terrrafrom apply
-![Alt text](image-1.png)
-we can see in image above, our script has been successfully executed and desired resources have been created.
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/bf887257-7379-4a0a-9b95-26331708be24)
 
-2.4 we can see below that our RDS has been successfully created in us-east-1b with name "cyware"
-![Alt text](image-2.png)
+
+we can see in the image above, our script has been successfully executed and the desired resources have been created.
+
+2.4 we can see below that our RDS has been successfully created in us-east-1b with the name "cyware"
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/d8cea056-1392-4016-bd76-5283b5f897bf)
+
 more details of RDS
-![Alt text](image-3.png)
-
-2.5 Now, we can see that our ec2 instance has also been successfully created with name "created-using-terraform" and is in running state.
-![Alt text](image-4.png)
-
-2.5 Here we can see that our S3 instance has also been successfully created with name "bucket-created-using-my-terraform510"
-![Alt text](image-5.png)
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/2501e5e4-8de1-43b9-a008-3a4fa475fc62)
 
 
-we have successfully achieved our goal and completed both the tasks successfully.
+2.5 Now, we can see that our ec2 instance has also been successfully created with the name "created-using-terraform" and is in a running state.
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/d34ed542-9c49-4c8e-8987-0f43cec79db0)
+
+2.6 Here we can see that our S3 instance has also been successfully created with the name "bucket-created-using-my-terraform510"
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/e74616d1-ff97-49da-a218-e4d0c4945efa)
+
+
+we have successfully achieved our goal and completed both tasks successfully.
