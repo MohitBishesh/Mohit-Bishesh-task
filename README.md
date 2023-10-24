@@ -18,8 +18,7 @@ Additionally I have modified the script to create an S3 bucket as well.
 <br>
 <br>
 2.3 Then we do terrrafrom apply
-![image]
-(https://github.com/MohitBishesh/cyware-task/assets/74617917/bf887257-7379-4a0a-9b95-26331708be24)
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/bf887257-7379-4a0a-9b95-26331708be24)
 
 
 we can see in the image above, our script has been successfully executed and the desired resources have been created.
