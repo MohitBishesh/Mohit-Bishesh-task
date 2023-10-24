@@ -13,7 +13,7 @@ Additionally I have modified the script to create an S3 bucket as well.
 2.1 First we do terrafrom init
 
 2.2 Then we do terrrafrom plan
-![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/7af6d537-34d3-489c-af02-83e5378f3275)
+(https://github.com/MohitBishesh/cyware-task/assets/74617917/7af6d537-34d3-489c-af02-83e5378f3275)
 
 <br>
 <br>
