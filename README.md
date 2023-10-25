@@ -24,17 +24,19 @@ Additionally I have modified the script to create an S3 bucket as well.
 we can see in the image above, our script has been successfully executed and the desired resources have been created.
 
 2.4 we can see below that our RDS has been successfully created in us-east-1b with the name "cyware"
-![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/d8cea056-1392-4016-bd76-5283b5f897bf)
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/2501e5e4-8de1-43b9-a008-3a4fa475fc62)
 
 more details of RDS
-![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/2501e5e4-8de1-43b9-a008-3a4fa475fc62)
+![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/d34ed542-9c49-4c8e-8987-0f43cec79db0)
 
 
 2.5 Now, we can see that our ec2 instance has also been successfully created with the name "created-using-terraform" and is in a running state.
-![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/d34ed542-9c49-4c8e-8987-0f43cec79db0)
+![image](https://github.com/MohitBishesh/Mohit-Bishesh-task/assets/74617917/12f9e927-4fcc-4cde-8394-29f104938b47)
+
 
 2.6 Here we can see that our S3 instance has also been successfully created with the name "bucket-created-using-my-terraform510"
-![image](https://github.com/MohitBishesh/cyware-task/assets/74617917/e74616d1-ff97-49da-a218-e4d0c4945efa)
+![image](https://github.com/MohitBishesh/Mohit-Bishesh-task/assets/74617917/fa45fdd5-1ecd-42da-88f4-22120f25d172)
+
 
 
 we have successfully achieved our goal and completed both tasks successfully.
